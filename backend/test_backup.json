@@ -1,0 +1,1165 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-10-10T08:41:04.167Z",
+    "user": 6,
+    "content_type": 9,
+    "object_id": "151",
+    "object_repr": "3 × Hammock Swing",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Product\", \"Quantity\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-10-14T13:43:40.098Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "52",
+    "object_repr": "Abstract Serenity Canvas",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Category\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-10-14T13:45:28.391Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "53",
+    "object_repr": "Golden Horizon Landscape",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-10-14T13:46:21.723Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "45",
+    "object_repr": "Outdoor Umbrella",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-10-14T13:46:43.809Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "42",
+    "object_repr": "Modern Sculpture",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-10-14T13:47:12.578Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "41",
+    "object_repr": "Textured Wall Art",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-10-14T13:47:36.876Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "33",
+    "object_repr": "Abstract Canvas Painting",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-10-14T13:48:02.499Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "34",
+    "object_repr": "Landscape Oil Painting",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-10-14T13:48:25.652Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "35",
+    "object_repr": "Black and White Photography",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-10-15T07:43:39.023Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "32",
+    "object_repr": "Nordic Wooden Table Lamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-10-15T07:45:04.024Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "31",
+    "object_repr": "Modern Pendant Ceiling Light",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-10-15T07:46:18.940Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "30",
+    "object_repr": "Crystal Chandelier Luxe\"",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-10-15T07:47:35.065Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "29",
+    "object_repr": "Smart LED Bulb",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-10-15T07:49:36.944Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "25",
+    "object_repr": "Smart RGB LED Strip Light",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-10-15T07:50:39.633Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "24",
+    "object_repr": "Floor Lamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-10-15T07:52:14.718Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "23",
+    "object_repr": "Minimalist Wall Light Bar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-10-15T07:54:34.201Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "26",
+    "object_repr": "Rattan Hanging Light Shade",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2025-10-15T07:55:59.686Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "28",
+    "object_repr": "Outdoor Garden Solar Lamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2025-10-15T07:56:30.175Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "24",
+    "object_repr": "Floor Lamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2025-10-15T07:57:30.026Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "27",
+    "object_repr": "Smart WiFi Ceiling Light Panel",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2025-10-15T07:58:21.261Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Minimalist Wall Lamp",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2025-10-15T08:00:43.504Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "53",
+    "object_repr": "Golden Horizon Landscape",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2025-10-15T08:00:53.853Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "52",
+    "object_repr": "Abstract Serenity Canvas",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2025-10-15T08:01:06.407Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "42",
+    "object_repr": "Modern Sculpture",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2025-10-15T08:01:32.013Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "41",
+    "object_repr": "Textured Wall Art",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2025-10-15T08:02:14.279Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "40",
+    "object_repr": "Cityscape Painting",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2025-10-15T08:02:53.595Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "39",
+    "object_repr": "Vintage Portrait",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2025-10-15T08:03:34.422Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "38",
+    "object_repr": "Color Splash Painting",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2025-10-15T08:04:07.882Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "37",
+    "object_repr": "Minimalist Print Set",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2025-10-15T08:04:39.070Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "36",
+    "object_repr": "Sculpture Bust",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2025-10-15T08:04:55.871Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "35",
+    "object_repr": "Black and White Photography",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2025-10-15T08:05:18.464Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "34",
+    "object_repr": "Landscape Oil Painting",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2025-10-15T08:05:35.903Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "33",
+    "object_repr": "Abstract Canvas Painting",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2025-10-15T08:08:01.765Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "22",
+    "object_repr": "TV Console",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Category\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2025-10-15T08:08:18.590Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "32",
+    "object_repr": "Nordic Wooden Table Lamp",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2025-10-15T08:09:21.167Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "21",
+    "object_repr": "Nightstand Table",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Category\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2025-10-15T08:10:12.675Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "20",
+    "object_repr": "Black and White Cityscape Print",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Category\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2025-10-15T08:11:21.082Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "19",
+    "object_repr": "Rustic Metal Wall Sculpture",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2025-10-15T08:11:35.523Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "19",
+    "object_repr": "Rustic Metal Wall Sculpture",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2025-10-15T08:12:27.092Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "18",
+    "object_repr": "Bohemian Woven Wall Hanging",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Category\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2025-10-15T08:13:33.515Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "17",
+    "object_repr": "Contemporary Abstract Sculpture",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Category\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2025-10-15T08:14:22.957Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "16",
+    "object_repr": "Canvas Set of Sunrise Mountains",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Category\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2025-10-15T08:15:20.036Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "15",
+    "object_repr": "Canvas Set of Sunrise Mountains",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Category\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2025-10-15T08:16:34.075Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "14",
+    "object_repr": "Contemporary Abstract Sculpture",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Category\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2025-10-15T08:17:41.796Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "13",
+    "object_repr": "Bohemian Woven Wall Hanging",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Category\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2025-10-15T08:21:40.088Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "51",
+    "object_repr": "Outdoor Dining Set",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Category\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2025-10-15T08:24:16.185Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "50",
+    "object_repr": "Modern Wooden Coffee Table",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Category\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2025-10-15T08:24:31.117Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "50",
+    "object_repr": "Modern Wooden Coffee Table",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2025-10-15T08:24:31.427Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "50",
+    "object_repr": "Modern Wooden Coffee Table",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2025-10-15T08:25:15.732Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "43",
+    "object_repr": "Patio Chair Set",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2025-10-15T08:26:29.643Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "49",
+    "object_repr": "Outdoor Planters",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2025-10-15T08:26:29.707Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "48",
+    "object_repr": "Garden Bench",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2025-10-15T08:26:29.733Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "47",
+    "object_repr": "Outdoor Rug",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2025-10-15T08:26:29.757Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "46",
+    "object_repr": "BBQ Grill",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2025-10-15T08:26:29.783Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "45",
+    "object_repr": "Outdoor Umbrella",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2025-10-15T08:26:29.807Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "44",
+    "object_repr": "Hammock Swing",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2025-10-15T08:27:10.726Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Aromatic Diffuser Set",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2025-10-15T08:27:10.770Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Wool Area Rug",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2025-10-15T08:27:10.804Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Handcrafted Mirror",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2025-10-15T08:27:10.828Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Framed Botanical Print",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2025-10-15T08:27:10.854Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Marble Candle Holder",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2025-10-15T08:27:10.935Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Cotton Throw Blanket",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2025-10-15T08:27:11.012Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Woven Wall Basket",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2025-10-15T08:27:11.110Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Bamboo Plant Pot",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2025-10-15T08:27:11.144Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Abstract Wall Clock",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2025-10-15T08:27:11.168Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Ceramic Vase Set",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2025-10-15T08:27:27.919Z",
+    "user": 8,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Wooden Coffee Table",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2025-10-16T06:20:24.182Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "54",
+    "object_repr": "ErgoMax High-Back Mesh Office Chair",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2025-10-16T06:21:42.665Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "55",
+    "object_repr": "AeroComfort Adjustable Task Chair",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2025-10-16T06:22:56.021Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "56",
+    "object_repr": "Executive Leather Reclining Office Chair",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2025-10-16T06:24:19.758Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "57",
+    "object_repr": "FlexiPosture Ergonomic Office Chair",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2025-10-16T06:25:28.698Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "58",
+    "object_repr": "ComfySpin Swivel Office Chair",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2025-10-16T06:26:44.706Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "59",
+    "object_repr": "ZenErgo Mesh Lumbar Chair",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2025-10-16T06:29:34.335Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "60",
+    "object_repr": "NovaCraft Modern Office Chair",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2025-10-16T06:31:17.678Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "61",
+    "object_repr": "Orbit Executive Mesh Chair",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2025-10-16T06:32:29.047Z",
+    "user": 6,
+    "content_type": 7,
+    "object_id": "62",
+    "object_repr": "WorkEase Executive Leather Chair",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "14nfpsr1qv73vy5mkgxaawkm6fbccb06",
+  "fields": {
+    "session_data": ".eJxVjMEOwiAQRP-FsyErRQSP3v0GsssuUjWQlPZk_HfbpAc9TTLvzbxVxGUucekyxZHVRTl1-O0I01PqBviB9d50anWeRtKbonfa9a2xvK67-3dQsJd1nQfrMSdLxhg7GDm6AYSCCFNw55B9XpMxnIjAcLI5ECAabwEIfAL1-QL4Xzhb:1v6q4r:eKBNJ8sstVUNrOmmolz5IHR8QJXGYfu3X-d5hKTcT-s",
+    "expire_date": "2025-10-23T12:49:01.526Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "4pmv2k013pdmuuodvhpi7cb2s6utt3u4",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAoMoBL9z0DmWEmUjU0Ke3KeHdt0oVu_3vvv1TGba1567LkidVFRXX63QjLQ9oO-I7tNusyt3WZSO-KPmjX48zyvB7u30HFXr-1cSyDDZGix5SCIQsJyZJjH1NBGYqAS86eAxAECtE5z8kjMAoZiOr9AdWTN4g:1v8vax:8Rp_uN9hG0y9t8wf8SIcoa_2iWm8xcUFLudYY2bBIKE",
+    "expire_date": "2025-10-29T07:06:47.667Z"
+  }
+},
+{
+  "model": "accounts.customuser",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$1pmj4L23VBf9NoDXtneRbg$oLy7UcZ1HhH/g50lYE8WOk2wdRT5riV5EsOAuQnzR1Q=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user1",
+    "first_name": "",
+    "last_name": "",
+    "email": "user1@aestivo.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-10-09T12:42:34.356Z",
+    "phone": "+254742047018",
+    "profile_photo": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$gWpESEVLkgG4fKoMiaXKpP$w8OhfPniJanduIjVzIOWex9mvF6mlun1UdO8UhOq9MM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user2",
+    "first_name": "",
+    "last_name": "",
+    "email": "user2@aestivo.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-10-09T12:42:34.926Z",
+    "phone": "+254729273805",
+    "profile_photo": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$FfzljoWBHMrbHBvNRYt5XV$WqgEFpzSL+rpyEezY7tO6+9ZjL2KpQb+IDoIomJl7xA=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user3",
+    "first_name": "",
+    "last_name": "",
+    "email": "user3@aestivo.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-10-09T12:42:35.408Z",
+    "phone": "+254735687381",
+    "profile_photo": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$GIbCn1Nk3BvptLNW9jpcvt$W262YqSecLEN/NU5TjaFvQEF3lqNIkV1moih8jJ+ymg=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user4",
+    "first_name": "",
+    "last_name": "",
+    "email": "user4@aestivo.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-10-09T12:42:35.881Z",
+    "phone": "+254720797583",
+    "profile_photo": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$n0SmvbypIi5MtPa7t9cIak$2m7arWzTkZn3K3SkBwzYtKUFgSzrtCzAo2YAowmFPwU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user5",
+    "first_name": "",
+    "last_name": "",
+    "email": "user5@aestivo.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-10-09T12:42:36.388Z",
+    "phone": "+254719263391",
+    "profile_photo": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$ssXTRYV2yrKpw8ZrlFqfH2$TgQt8zkzgR/qr0qb8bAtrNEYiyLTQ0EBOWMl6oUyGVc=",
+    "last_login": "2025-10-09T12:49:01.390Z",
+    "is_superuser": true,
+    "username": "banju",
+    "first_name": "",
+    "last_name": "",
+    "email": "banju@example.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-10-09T12:46:01.413Z",
+    "phone": null,
+    "profile_photo": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$YThF5ipEPMIspLPKEmtfwm$IjPc7QrkQznKfDA7IDS7uKe2oLyJFZ4sOdHREK5WAiM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "jane",
+    "first_name": "",
+    "last_name": "",
+    "email": "jane@example.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-10-13T09:56:31.515Z",
+    "phone": null,
+    "profile_photo": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "pk": 8,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$am037SjX2hos6fFiv1FJrz$+SdKH2eo/S+UrQnbyH9E8cAbYY4BMTcNlti+5EvfvFg=",
+    "last_login": "2025-10-15T07:06:47.262Z",
+    "is_superuser": true,
+    "username": "julius",
+    "first_name": "",
+    "last_name": "",
+    "email": "julius@examample.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-10-15T07:06:09.111Z",
+    "phone": null,
+    "profile_photo": "",
+    "groups": [],
+    "user_permissions": []
+  }
+}
