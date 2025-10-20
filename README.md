@@ -106,7 +106,7 @@ MPESA_PASSKEY=your_passkey
 ![Product Page](./assets/productsdetails2.png)
 
 ### 🛒 Cart Page
-![Mpesa Checkout](./assets/cartPage.png)
+![Mpesa Checkout](./assets/cartpage.png)
 
 ### 💳 Mpesa Page
 ![Mpesa Checkout](./assets/mpesaPage.png)
