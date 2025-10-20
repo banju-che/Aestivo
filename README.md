@@ -96,11 +96,20 @@ MPESA_PASSKEY=your_passkey
 ### 🏠 Homepage
 ![Homepage](./assets/homepage.png)
 
-### 🛒 Product Page
-![Product Page](./assets/product-page.png)
+![Homepage](./assets/homepage2.png)
 
-### 💳 Mpesa Checkout
-![Mpesa Checkout](./assets/checkout.png)
+![Homepage](./assets/homepage3.png)
+
+### 🛒 Product Page
+![Product Page](./assets/productDetailsPage1.png)
+
+![Product Page](./assets/productsdetails2.png)
+
+### 💳 Mpesa Page
+![Mpesa Checkout](./assets/mpesaPage.png)
+
+### 🧾 Checkout Page
+![Checkout](./assets/checkoutpage.png)
 
 
 ### 💰 M-Pesa Integration
