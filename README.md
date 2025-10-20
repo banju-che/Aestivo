@@ -38,7 +38,7 @@ It delivers a smooth shopping experience with **secure payments**, **product man
 git clone https://github.com/yourusername/aestivo.git
 cd aestivo
 ```
-###2️⃣ Backend Setup
+### 2️⃣ Backend Setup
 ```bash
 Copy code
 cd backend
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 ```
-###3️⃣ Frontend Setup
+### 3️⃣ Frontend Setup
 ```bash
 bash
 Copy code
@@ -58,7 +58,7 @@ cd frontend
 npm install
 npm run dev
 ```
-🐳 Docker Setup (Recommended)
+## 🐳 Docker Setup (Recommended)
 This project includes Docker and Docker Compose configurations for containerized development and deployment.
 
 Build and run all services:
